@@ -1,0 +1,25 @@
+Drug,Total_Trials,Completed,Failed,Ongoing_Other,Median_Enrollment,Failure Rate %,Completion Rate %,Opportunity Score
+Temozolomide,1037,455,178,404,37.5,17.2,43.9,78.3
+Lomustine,101,39,22,40,61.0,21.8,38.6,75.0
+Bevacizumab,550,232,112,206,36.0,20.4,42.2,72.1
+Pembrolizumab,51,11,7,33,44.5,13.7,21.6,72.1
+Carmustine,187,94,40,53,40.0,21.4,50.3,70.8
+Nivolumab,53,23,7,23,39.0,13.2,43.4,70.0
+Irinotecan,71,47,11,13,41.0,15.5,66.2,67.5
+Regorafenib,12,6,0,6,86.5,0.0,50.0,67.0
+Etoposide,49,21,9,19,45.5,18.4,42.9,66.0
+Everolimus,19,13,2,4,48.0,10.5,68.4,59.2
+Olaparib,9,3,0,6,50.0,0.0,33.3,57.7
+Valproic Acid,39,24,9,6,44.0,23.1,61.5,53.0
+Ipilimumab,39,13,8,18,27.0,20.5,33.3,52.0
+Sirolimus,31,26,2,3,36.0,6.5,83.9,51.9
+Osimertinib,3,1,0,2,56.0,0.0,33.3,45.4
+Marizomib,4,4,0,0,93.5,0.0,100.0,45.3
+Vorinostat,15,11,3,1,48.0,20.0,73.3,45.1
+Enzastaurin,7,5,1,1,72.0,14.3,71.4,42.7
+Selinexor,7,2,2,3,76.0,28.6,28.6,39.9
+Metformin,12,3,4,5,31.5,33.3,25.0,35.3
+Rucaparib,2,0,1,1,178.5,50.0,0.0,28.5
+Cabozantinib,11,4,4,3,26.0,36.4,36.4,27.5
+Disulfiram,10,6,3,1,22.0,30.0,60.0,22.2
+Panobinostat,2,0,2,0,3.0,100.0,0.0,5.4

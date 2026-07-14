@@ -1,0 +1,9 @@
+Combination,Total_Trials,Completed,Failed,Ongoing_Other,Median_Enrollment,Failure Rate %
+Other / Single Agent,1201,587,207,407,33,17.2
+Temozolomide + Radiation,816,361,151,304,36,18.5
+Temozolomide + Anti-VEGF,364,152,65,147,38,17.9
+Temozolomide + Vaccine,178,60,25,93,40,14.0
+Tumor Treating Fields,111,26,18,67,40,16.2
+Gene / Viral Therapy,104,44,24,36,26,23.1
+Temozolomide + Immunotherapy,88,26,13,49,41,14.8
+CAR-T / Cell Therapy,80,17,9,54,36,11.2
